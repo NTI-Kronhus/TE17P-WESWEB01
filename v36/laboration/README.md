@@ -142,7 +142,7 @@ Vad skriver jag för fråga om jag från test2 vill hämta…
 
 ### Fråga 3 - INSERT
 Lägg in information i tabellen städer. <br>
-Skriv in följande [kod](https://gist.github.com/JaoK/58f5af02b09ce3edda080420d25a6f76) genom att kopiera den och högerklicka i kommandoprompten och sedan klistra in.<br>
+Skriv in följande [kod](https://github.com/NTIGBG/TE17P-WESWEB01/blob/master/v36/laboration/st%C3%A4der.sql) genom att kopiera den och högerklicka i kommandoprompten och sedan klistra in.<br>
 ***OBS!** Om ni skapat städer fel kommer ni få errors när ni klistrar in!*<br>
 Om det händer, skriv då: ```DROP TABLE städer;``` Och gör om, gör rätt!<br>
 1. Lägg till minst 3st svenska städer i din tabell med rätt information. <br>
