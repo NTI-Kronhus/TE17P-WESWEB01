@@ -1,6 +1,6 @@
 CREATE TABLE Countries(Countrycode varchar(32), Countryname varchar(32));
 
-INSERT INTO Countries(Countrycode,Countryname) VALUES ('ae','United Arab Emirates)';
+INSERT INTO Countries(Countrycode,Countryname) VALUES ('ae','United Arab Emirates');
 INSERT INTO Countries(Countrycode,Countryname) VALUES ('af','Afghanistan');
 INSERT INTO Countries(Countrycode,Countryname) VALUES ('am','Armenia');
 INSERT INTO Countries(Countrycode,Countryname) VALUES ('ao','Angola');
