@@ -1,7 +1,3 @@
-CREATE DATABASE cities;
-
-USE cities;
-
 CREATE TABLE IF NOT EXISTS `cities` (
   `Country` varchar(32) DEFAULT NULL,
   `City` varchar(32) DEFAULT NULL,
