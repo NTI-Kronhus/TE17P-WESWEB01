@@ -150,19 +150,19 @@ För varje fråga man svarar rätt på och skickar in får man dock 1 bonuspoän
 
   * Posts (Tabell för att lagra inlägg skapade av en specifik användare)
 	* **Posts_Id** *(PRIMARY KEY)*
-	* Posts_User *(Koppa till Users)*
+	* Posts_User *(Koppla till Users)*
 	* Posts_Headline
 	* Posts_Text
 	* Posts_Likes
-	* Posts_Creation_time
+	* Posts_Creation_time *(timestamp)*
 	
   * Comments (Tabell för att lagra kommentarer på ett specifikt inlägg skapade av en specifik användare)
 	* **Comments_Id** *(PRIMARY KEY)*
-	* Comments_Post *(Koppa till Posts)*
-	* Comments_User *(Koppa till Users)*
+	* Comments_Post *(Koppla till Posts)*
+	* Comments_User *(Koppla till Users)*
 	* Comments_Text
 	* Comments_Likes
-	* Comments_Creation_time
+	* Comments_Creation_time *(timestamp)*
 
 **(OBS! Jag vill veta den kod du skrev för att skapa dessa tabeller! (CREATE …))**
 
@@ -185,5 +185,6 @@ För varje fråga man svarar rätt på och skickar in får man dock 1 bonuspoän
 	* Vad ska jag skriva för att ta bort alla kommentarer som användaren med id=3 skrivit?
 	* Vad ska jag skriva för att ta bort användaren med id=2? (Flera rader krävs)
 	
+### Skicka in svaren på fråga 3 till min mail joakim.ohlsson@ntig.se innan deadline.
 ### Deadline Söndag 30/9 23:59. *OBS! Provet är Måndag den 1/10*
 	
