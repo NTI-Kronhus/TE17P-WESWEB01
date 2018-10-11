@@ -21,7 +21,7 @@
         <input type="checkbox" name="check1" value="alt1">alt1<br>
         <input type="checkbox" name="check2" value="alt2">alt2<br>
         <input type="checkbox" name="check3" value="alt3">alt3<br>
-        <input type="checkbox" name="check4" value="alt4">alt4
+        <input type="checkbox" name="check4" value="alt4">alt4<br>
 
         <select name="car">
             <option value="1">Volvo</option>
@@ -29,7 +29,7 @@
             <option value="3">Ferrari</option>
             <option value="4">Opel</option>
             <option value="5">Audi</option>
-        </select>
+        </select><br>
 
         <input type="submit">
 
