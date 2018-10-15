@@ -2,7 +2,7 @@
 
 1. Skapa en PHP-fil som får heta form.php.
 
-2. I form.php ska du skapa ett formulär som ska ha minst 5 *olika* ```<input>```-taggar
+2. I form.php ska du skapa ett formulär som ska ha minst 5 **olika** ```<input>```-taggar
  
 3. Skapa en databas och i den en tabell som har samma struktur som ditt formulär. *Glöm inte primary key!*
 
