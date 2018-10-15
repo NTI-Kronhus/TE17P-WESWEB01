@@ -6,7 +6,7 @@
  
 3. Skapa en databas och i den en tabell som har samma struktur som ditt formulär. *Glöm inte primary key!*
 
-4. Skapa ytterligare en PHP-fil som heter submit.php och gör så att datan från formuläret skickas till submit.php. ```(action)``
+4. Skapa ytterligare en PHP-fil som heter submit.php och gör så att datan från formuläret skickas till submit.php. ```(action)```
 
 5. I submit.php ska du nu med hjälp av PHP stoppa in datan som skickas via formulären in i din tabell.
 
