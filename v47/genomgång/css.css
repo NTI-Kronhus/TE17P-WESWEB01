@@ -1,0 +1,12 @@
+.container{
+    border:solid black 2px;
+    margin:10px;
+    padding:5px;
+    width:250px;
+    text-align:center;
+    float:left;
+}
+.container:hover{
+    background-color: lightgray;
+    cursor:pointer;
+}
