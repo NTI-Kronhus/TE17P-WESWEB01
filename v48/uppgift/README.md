@@ -16,3 +16,5 @@ För C eller högre kan ni lägga till följande:
   * När man är inloggad ska ens namn synas i menyn.
   * När man är inloggad ska man göra en inställning så man får en annan färg på sidan.
   * Valfritt...
+  
+  Skicka in via GitHub eller mail senast 20/12
