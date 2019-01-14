@@ -17,4 +17,6 @@
 	* Skapa en bestämd array med värden som du sedan skriver ut.
 
 4. Om du hinner göra ännu mer så gå in på w3s och läs på om JSON och testa lagra olika objekt i cookies.
+
+5. Fundera även över vad man mer praktiskt kan använda cookies till på sin sida.
 	
