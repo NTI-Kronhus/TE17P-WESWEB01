@@ -19,4 +19,9 @@
 4. Om du hinner göra ännu mer så gå in på w3s och läs på om JSON och testa lagra olika objekt i cookies.
 
 5. Fundera även över vad man mer praktiskt kan använda cookies till på sin sida.
-	
+
+Extra för de som är klara:
+
+6. Testa att lagra en array i ```$_SESSION```. Använd dig av JSON.
+
+7. Testa att lagra ett eller flera objekt i antingen en cookie eller session.
