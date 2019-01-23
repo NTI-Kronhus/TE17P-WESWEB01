@@ -11,3 +11,21 @@ De tabeller som ska finnas med i er design är följande:
 * Betyg
 
 Ni ska skapa ett ER-diagram över er design och även koden för att skapa alla tabeller.
+
+
+#### När ni har skapat databasen ska ni fylla den med lite data som ni kan experimentera med:
+
+* Skapa minst 2 klasser
+* Skapa minst 4 lärare
+* Skapa minst en kurs för varje lärare
+* Skapa minst 8 elever som läser olika kurser och är med i en klass
+* Skapa ett betyg till varje elev i varje kurs den läser
+
+#### När ni lagt in er data ska ni hämta resultat på följande:
+* x
+* x
+* x
+* x
+* x
+* x
+* x
