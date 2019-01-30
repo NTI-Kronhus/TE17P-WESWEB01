@@ -3,6 +3,7 @@
 Resurser: 
 * [Genomgång ER](https://github.com/NTIGBG/TE17P-WESWEB01/blob/master/w04/ER-diagram.pdf)
 * [Laboration 2](https://github.com/NTIGBG/TE17P-WESWEB01/tree/master/v37/laboration2)
+* [Laboration 3](https://github.com/NTI-Kronhus/TE17P-WESWEB01/tree/master/v38/laboration3)
 <br>
 Uppgiften går ut på att ni ska skapa en databas för en skola och dess verksamhet.
 
