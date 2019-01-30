@@ -24,10 +24,21 @@ De tabeller som ska finnas med i er design är följande:
 * Skapa ett betyg till varje elev i varje kurs den läser
 
 #### När ni lagt in er data ska ni hämta resultat på följande:
-* Alla elever dom går i en klass.
-* Ett resultat med alla betyg för en indivuduell elev.
-* Alla elever och betyg en lärare har satt.
+* Alla elever som går i en specifik klass.
 * Alla kurser en specifik elev läser.
 * Vilken kurs som flest elever läser.
-* Vilken lärare som undervisar flest elever.
-* More to come...
+* Alla betyg för en indivuduell elev.
+* Alla elever och betyg som en specifik lärare har satt.
+* Hur många elever respektive lärare på skolan undervisar.
+
+#### Utöka er design:
+* Lägg till så att vårdnadshavare till elever finns med.
+* Lägg till så att det kan finnas vikarier på skolan.
+  * En vikarie ska kunna hoppa in och ta en eller flera kurser.
+* Lägg till så att det finns klassrum på skolan.
+  * En klass ska ha ett eget "hemklassrum".
+* Lägg till så att det finns kontor på skolan.
+  * En eller flera lärare ska kunna sitta på ett kontor.
+
+
+
