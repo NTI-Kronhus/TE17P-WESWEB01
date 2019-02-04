@@ -40,6 +40,7 @@ De tabeller som ska finnas med i er design är följande:
   * En klass ska ha ett eget "hemklassrum".
 * Lägg till så att det finns kontor på skolan.
   * En eller flera lärare ska kunna sitta på ett kontor.
+* Lägg till så att man kan skapa prov till en kurs och se elevers provresultat.
 
 
 
