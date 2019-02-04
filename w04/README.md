@@ -41,6 +41,7 @@ De tabeller som ska finnas med i er design är följande:
 * Lägg till så att det finns kontor på skolan.
   * En eller flera lärare ska kunna sitta på ett kontor.
 * Lägg till så att man kan skapa prov till en kurs och se elevers provresultat.
+* Lärr till så att det finns klassföreståndare till olika klasser.
 
 
 
