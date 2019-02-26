@@ -46,7 +46,9 @@ De tabeller som ska finnas med i er design är följande:
 
 ### Skriv en kort sammanfattning
 * Skriv en sammanfattning på hur er databas fungerar och hur tabellerna är kopplade till varandra.
-* Skriv en kort text om eventuella brister du finner i din design. Till exempel ifall den är rörig eller svår att förstå, eller ifall den är väldigt statisk och svår att utöka, etc.
+* Stötte ni på några problem i det fjärde steget? (Utöka er design)
+* Skriv en kort text om eventuella brister du finner i din nuvarande design. <br>
+*Till exempel ifall den är svår att förstå eller överskåda, eller ifall den är väldigt statisk och svår att utöka, etc.*
 * Skriv en kort text om vad du lärt dig kring databasdesign och hur du kommer tänka kring detta i framtiden.
 
 ### Lämna in er textfil och .sql-fil senast Söndag vecka 9 (3 mars) på min mail: joakim.ohlsson@ntig.se
